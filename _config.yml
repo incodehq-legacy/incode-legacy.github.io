@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Incode Modules
 tagline:          Reusable business modules for Apache Isis.
-url:              http://incodehq.github.io
+url:              http://incodehq-legacy.github.io
 #url:              http://catalog.incode.org
 paginate:         1
 baseurl:          /
@@ -20,5 +20,5 @@ author:
 # Custom vars
 # version:          1.0.0
 # github:
-#   repo:           https://github.com/incodehq/incodehq.github.io
+#   repo:           https://github.com/incodehq-legacy/incodehq-legacy.github.io
   
